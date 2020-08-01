@@ -1,0 +1,7 @@
+jupyter
+notebook
+matplotlib
+opencv-python
+pillow
+requests
+AWSIoTPythonSDK

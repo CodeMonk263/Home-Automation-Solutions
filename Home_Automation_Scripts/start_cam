@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+cd ..
+cd face_detector/
+. myenv/bin/activate
+LD_PRELOAD=/usr/lib/arm-linux-gnueabihf/libatomic.so.1 python3 face_detect.py
+

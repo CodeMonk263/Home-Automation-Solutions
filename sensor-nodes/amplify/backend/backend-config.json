@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"sensornodesc5d812ce": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}

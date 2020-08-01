@@ -1,0 +1,6 @@
+Django
+djangorestframework
+paho-mqtt
+django-cors-headers
+Pillow
+numpy

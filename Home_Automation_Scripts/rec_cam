@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+cd ..
+cd backend/mqtt_client/
+python3 mqtt_client.py cam

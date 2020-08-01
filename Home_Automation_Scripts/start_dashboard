@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+cd ..
+cd sensor-nodes/
+npm --max_old_space_size=450 start

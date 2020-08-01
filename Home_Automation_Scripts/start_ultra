@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+cd ..
+cd sensor_iot/
+python3 ultrasonic_sensor.py
